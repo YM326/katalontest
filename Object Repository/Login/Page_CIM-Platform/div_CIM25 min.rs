@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_CIM25 min</name>
+   <tag></tag>
+   <elementGuidId>e58e015a-7ac8-4fa3-8d9f-b2238dd4ad87</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/main/div/div/div/div/div[2]/div/div/li[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>07af52e4-8fce-4213-b8ff-dda687895eba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>scss_wrap_thumb__16kcX</value>
+      <webElementGuid>d85ebc5c-b40a-4862-8188-f82debdd2a52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CIM25 min</value>
+      <webElementGuid>7a75530c-5cdb-46a6-abe0-4435bfa8d752</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;jss31&quot;]/main[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg jss32 css-1qsxih2&quot;]/div[@class=&quot;scss_library__3odkZ&quot;]/div[@class=&quot;MuiContainer-root MuiContainer-maxWidthLg css-9ncxuc&quot;]/div[@class=&quot;scss_products__1x_GC&quot;]/div[@class=&quot;scss_inner__3CU7_&quot;]/div[@class=&quot;infinite-scroll-component__outerdiv&quot;]/div[@class=&quot;infinite-scroll-component&quot;]/div[@class=&quot;scss_list_prod__3kziJ&quot;]/li[2]/div[@class=&quot;scss_wrap_thumb__16kcX&quot;]</value>
+      <webElementGuid>fbeb812f-5f74-4242-8b45-3d6857967880</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/div/div/div/div/div[2]/div/div/li[2]/div</value>
+      <webElementGuid>0fc5a24f-6456-4f3e-ad82-cfafea47d32d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Library'])[1]/following::div[1]</value>
+      <webElementGuid>ccb62b00-5744-468e-9cd4-0ce27f4f6fb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CIM'])[2]/following::div[1]</value>
+      <webElementGuid>a6b83d91-ecb2-44ca-9112-791d2427678e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[이재형]PSC Test'])[1]/preceding::div[2]</value>
+      <webElementGuid>ad673336-14d9-4336-ba27-29a63ff49b80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div</value>
+      <webElementGuid>113d55a4-fecf-4eee-bb6a-55ad8cffde2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'CIM25 min' or . = 'CIM25 min')]</value>
+      <webElementGuid>48bad099-2be5-4fed-95b2-1b84f8564048</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
